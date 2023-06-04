@@ -1,1 +1,1 @@
-[![(Header)](https://github.com/Ruzmat-dev/Ruzmat-dev/blob/main/assets/coding.gif)]
+[![(Header)](https://github.com/Ruzmat-dev/Ruzmat-dev/blob/main/assets/coding.gif)](https://github.com/Ruzmat-dev)
